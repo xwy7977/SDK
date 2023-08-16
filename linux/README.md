@@ -1,3 +1,3 @@
-# to_do
+# linux
 
 * source命令

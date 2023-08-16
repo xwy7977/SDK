@@ -1,5 +1,4 @@
-# to_do
-
+# tools
 
 * git
 * makefile

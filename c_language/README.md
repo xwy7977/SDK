@@ -1,5 +1,4 @@
-# to_do
-
+# c language
 
 * extern
 * 回调函数
