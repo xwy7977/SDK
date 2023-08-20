@@ -1,4 +1,4 @@
-# 075 Shell和Shell script
+# Shell和Shell script
 
 不论你在使用哪一个主流的操作系统，都是在间接的与Shell进行交互。如果你运行的是Ubuntu、Linux Mint或任何其他Linux发行版，那么每次使用终端时都会与Shell进行交互。在本文中，将讨论linux Shell和Shell脚本。在使用Shell脚本之前，我们必须熟悉以下术语：
 
