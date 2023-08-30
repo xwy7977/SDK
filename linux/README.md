@@ -2,4 +2,4 @@
 
 * shell
 * man
-* source命令
+* source
