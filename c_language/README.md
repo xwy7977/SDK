@@ -1,5 +1,6 @@
 # c language
 
+* memset()
 * extern
 * 回调函数
 * typedef
