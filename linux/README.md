@@ -1,5 +1,0 @@
-# linux
-
-* shell
-* man
-* source
