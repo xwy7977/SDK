@@ -28,6 +28,7 @@ Software Development Knowledge
 * IP
 * RIP
 * GVRP
+* QoS
 
 ## tools
 
