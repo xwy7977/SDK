@@ -31,6 +31,7 @@ Software Development Knowledge
 * QoS
 * QinQ
 * Eth-trunk
+* LACP
 
 ## tools
 
