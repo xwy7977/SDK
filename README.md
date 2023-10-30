@@ -32,6 +32,7 @@ Software Development Knowledge
 * QinQ
 * Eth-trunk
 * LACP
+* 802.1X
 
 ## tools
 
