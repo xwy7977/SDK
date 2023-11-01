@@ -11,6 +11,10 @@ Software Development Knowledge
 * 回调函数
 * 函数指针数组
 
+## cplusplus
+
+* explicit
+
 ## linux
 
 * shell
