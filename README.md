@@ -37,6 +37,7 @@ Software Development Knowledge
 * Eth-trunk
 * LACP
 * 802.1X
+* 802.1CB
 
 ## tools
 
