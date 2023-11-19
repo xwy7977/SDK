@@ -10,6 +10,7 @@ Software Development Knowledge
 * 翻译单元
 * 回调函数
 * 函数指针数组
+* void指针void*
 
 ## cplusplus
 
