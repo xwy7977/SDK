@@ -13,6 +13,7 @@ Software Development Knowledge
 * void指针void*
 * 下标运算符
 * #line指令
+* 可变参数函数
 
 ## cplusplus
 
