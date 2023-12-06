@@ -14,6 +14,7 @@ Software Development Knowledge
 * 下标运算符
 * #line指令
 * 可变参数函数
+* memcpy()
 
 ## cplusplus
 
