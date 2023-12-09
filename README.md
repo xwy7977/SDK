@@ -15,6 +15,7 @@ Software Development Knowledge
 * #line指令
 * 可变参数函数
 * memcpy()
+* 函数参数列表为空和参数是void
 
 ## cplusplus
 
