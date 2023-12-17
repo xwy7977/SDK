@@ -16,6 +16,7 @@ Software Development Knowledge
 * 可变参数函数
 * memcpy()
 * 函数参数列表为空和参数是void
+* 函数声明和定义的过时形式
 
 ## cplusplus
 
