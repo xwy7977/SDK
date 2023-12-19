@@ -17,6 +17,7 @@ Software Development Knowledge
 * memcpy()
 * 函数参数列表为空和参数是void
 * 函数声明和定义的过时形式
+* 使用UNUSED宏消除unused_parameter警告
 
 ## cplusplus
 
