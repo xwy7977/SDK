@@ -18,6 +18,7 @@ Software Development Knowledge
 * 函数参数列表为空和参数是void
 * 函数声明和定义的过时形式
 * 使用UNUSED宏消除unused_parameter警告
+* C语言历史和C语言标准概述
 
 ## cplusplus
 
