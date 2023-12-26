@@ -30,6 +30,7 @@ Software Development Knowledge
 * man
 * source
 * grep
+* glibc概述
 
 ## protocol
 
