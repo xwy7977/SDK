@@ -50,6 +50,7 @@ Software Development Knowledge
 * 802.1CB
 * ACL
 * NAT
+* slow protocol
 
 ## tools
 
