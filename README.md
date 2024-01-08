@@ -25,6 +25,7 @@ Software Development Knowledge
 ## cplusplus
 
 * explicit
+* alignas
 
 ## linux
 
