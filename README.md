@@ -21,6 +21,7 @@ Software Development Knowledge
 * C语言历史和C语言标准概述
 * 二级指针作为函数参数
 * C语言动态内存管理
+* memcmp()
 
 ## cplusplus
 
