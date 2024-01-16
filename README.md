@@ -27,6 +27,7 @@ Software Development Knowledge
 
 * explicit
 * alignas
+* static_assert
 
 ## linux
 
