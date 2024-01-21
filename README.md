@@ -9,7 +9,6 @@ Software Development Knowledge
 * typedef
 * 什么是翻译单元
 * 回调函数
-* 函数指针数组
 * void指针void*
 * 下标运算符
 * #line指令
@@ -22,6 +21,7 @@ Software Development Knowledge
 * 二级指针作为函数参数
 * C语言动态内存管理
 * memcmp()
+* C语言函数指针
 
 ## cplusplus
 
