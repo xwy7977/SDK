@@ -8,7 +8,6 @@ Software Development Knowledge
 * extern
 * typedef
 * 什么是翻译单元
-* 回调函数
 * void指针void*
 * 下标运算符
 * #line指令
@@ -22,6 +21,7 @@ Software Development Knowledge
 * C语言动态内存管理
 * memcmp()
 * C语言函数指针
+* C语言回调函数
 
 ## cplusplus
 
