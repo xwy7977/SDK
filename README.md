@@ -69,6 +69,10 @@ Software Development Knowledge
 
 * 漏桶和令牌桶概述
 
+## computer_science
+
+* 看门狗定时器概述
+
 ## other
 
 * 0x3f3f3f3f-编程中无穷大常量的设置技巧
