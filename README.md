@@ -63,7 +63,6 @@ Software Development Knowledge
 
 ## tools
 
-* git
 * makefile
 * kconfig
 
@@ -79,3 +78,7 @@ Software Development Knowledge
 
 * 0x3f3f3f3f-编程中无穷大常量的设置技巧
 * 条件编译
+
+## Git
+
+* git stash
