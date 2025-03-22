@@ -1,4 +1,6 @@
-```
+# sanitizer
+
+```cpp
 /*
  * github: https://github.com/google/Sanitizers
  * address santizer
